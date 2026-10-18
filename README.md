@@ -118,3 +118,10 @@ To connect to your local WAMP server, simply update the **API Gateway** input bo
 ## 📄 License
 
 Open-source and distributed under the [MIT License](LICENSE).
+
+
+---
+
+## 🏷️ Repository Metadata & Topic Tags
+- **Core Topics**: `iot` `nodemcu` `esp8266` `automation` `wamp` `php` `hardware-control`
+- **Governance**: Follows [Antigravity AI Rules](file:///d:/ag-ai/.agents/rules/antigravity-rules.md) and [Multi-Agent SDLC Contracts](file:///d:/ag-ai/.agents/rules/multi-agent-prompts.md).
