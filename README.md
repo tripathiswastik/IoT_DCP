@@ -2,9 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Microcontroller](https://img.shields.io/badge/Hardware-ESP8266%20%7C%20NodeMCU-orange.svg)](https://www.espressif.com/)
-[![Backend](https://img.shields.io/badge/Server-WAMP%20%7C%20LAMP%20%7C%20PHP-777bb4.svg)](https://www.wampserver.com/)
-[![Frontend](https://img.shields.io/badge/Frontend-HTML5%20%7C%20Vanilla%20JS-yellow.svg)](https://github.com/tripathiswastik/mine1)
-[![Author](https://img.shields.io/badge/Author-Swastik%20Tripathi-blueviolet.svg)](https://github.com/tripathiswastik)
+[![Backend](https://img.shields.io/badge/Server-WAMP%20%7C%20LAMP%20%7C%20PHP-777bb4.svg)](https://www.php.net/)
+[![Frontend](https://img.shields.io/badge/Frontend-HTML5%20%7C%20Vanilla%20JS-yellow.svg)](https://github.com/tripathiswastik/IoT_DCP)
+[![Author](https://img.shields.io/badge/Author-Swastik%20Tripathi-blueviolet.svg)](https://www.linkedin.com/in/swastik-tripathi-52333511a/)
 
 A responsive Web-based IoT Control Panel designed to trigger and monitor hardware relays and LEDs connected to an **ESP8266 / NodeMCU** microcontroller via a local **WAMP / LAMP** server or cloud REST API gateway.
 
@@ -111,7 +111,7 @@ To connect to your local WAMP server, simply update the **API Gateway** input bo
 
 ## 👤 Author
 
-- **Swastik Tripathi** — [GitHub (@tripathiswastik)](https://github.com/tripathiswastik)
+- **Swastik Tripathi** — [GitHub (@tripathiswastik)](https://github.com/tripathiswastik) • [LinkedIn](https://www.linkedin.com/in/swastik-tripathi-52333511a/)
 
 ---
 
@@ -123,5 +123,6 @@ Open-source and distributed under the [MIT License](LICENSE).
 ---
 
 ## 🏷️ Repository Metadata & Topic Tags
-- **Core Topics**: `iot` `nodemcu` `esp8266` `automation` `wamp` `php` `hardware-control`
+- **About Description**: Responsive Web IoT Device Control Panel for ESP8266 / NodeMCU microcontrollers with real-time relay telemetry and REST API gateway.
+- **Core Topics**: `iot` `nodemcu` `esp8266` `home-automation` `iot-control-panel` `wamp` `php` `vanilla-javascript` `hardware-control`
 - **Governance**: Follows [Antigravity AI Rules](file:///d:/ag-ai/.agents/rules/antigravity-rules.md) and [Multi-Agent SDLC Contracts](file:///d:/ag-ai/.agents/rules/multi-agent-prompts.md).
