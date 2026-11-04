@@ -125,4 +125,3 @@ Open-source and distributed under the [MIT License](LICENSE).
 ## 🏷️ Repository Metadata & Topic Tags
 - **About Description**: Responsive Web IoT Device Control Panel for ESP8266 / NodeMCU microcontrollers with real-time relay telemetry and REST API gateway.
 - **Core Topics**: `iot` `nodemcu` `esp8266` `home-automation` `iot-control-panel` `wamp` `php` `vanilla-javascript` `hardware-control`
-- **Governance**: Follows [Antigravity AI Rules](file:///d:/ag-ai/.agents/rules/antigravity-rules.md) and [Multi-Agent SDLC Contracts](file:///d:/ag-ai/.agents/rules/multi-agent-prompts.md).
